@@ -1,6 +1,6 @@
 # Applied-Machine-Learning-Notes
-Contains the lectures aids, activity sheets and lab manual for gaining in-depth knowledge on Machine Learning. 
-A Public learning resources prepared and curated by **J. Dhiviya Rose**.
+Contains the lecture aids, activity sheets, and lab manual for gaining in-depth knowledge on Machine Learning. 
+Public learning resources prepared and curated by **J Dhiviya Rose**.
 
 This repository contains unit-wise lecture slides and classroom activity sheets for students studying machine learning. Learners may open only the unit they need and download the relevant resources.
 
