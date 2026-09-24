@@ -33,7 +33,7 @@ UPES, SOCS, dhiviyarj@ddn.upes.ac.in
 
 ## Usage and Copyright
 Copyright © J. Dhiviya Rose. All rights reserved.
-These resources are shared for learning and classroom use. Add your preferred licence here before publishing if you wish to permit copying, adaptation or redistribution—for example, a suitable Creative Commons licence.
+These resources are shared for learning and classroom use. 
 
 ## Feedback
 Students and educators may use the repository's **Issues** section to report an error or suggest an improvement.
